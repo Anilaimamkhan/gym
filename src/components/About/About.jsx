@@ -1,4 +1,5 @@
 import React from 'react'
+// import image from "../../assets/boyImage.jpg"
 import image from "../../assets/boyImage.jpg"
 import Button from '../../Button/Button'
 import { motion } from 'framer-motion'
